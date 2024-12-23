@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark (0.4.0)
+    matrix (0.4.2)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  benchmark
+  matrix
+
+BUNDLED WITH
+   2.6.1
